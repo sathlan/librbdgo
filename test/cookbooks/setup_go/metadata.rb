@@ -1,0 +1,6 @@
+name              'setup_go'
+maintainer        'Sofer Athlan-Guyot'
+maintainer_email  'chem@sathlan.org'
+license           'Apache 2.0'
+description       'A support cookbook for the libradosgo tests'
+version           '1.0.0'
